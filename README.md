@@ -12,8 +12,8 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/CRaKN/crakn-ruby-intro-project` this repository
-* `cd crakn-ruby-intro-project`
+* `git clone https://github.com/CRaKN/crakn-ruby-project` this repository
+* `cd crakn-ruby-project`
 * `bundle install`
 
 ## What to do When You are Done
